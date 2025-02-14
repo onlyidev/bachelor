@@ -4,3 +4,6 @@
 [submodule "practice"]
 	path = practice
 	url = git@github.com:onlyidev/bachelor.practice.git
+[submodule "code"]
+	path = code
+	url = git@github.com:onlyidev/bachelor.code.git
