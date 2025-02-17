@@ -2,7 +2,7 @@
 
 ## Task List
 
-- [ ] Register topic until 02-18
+- [x] Register topic until 02-18
 
 
 ## Mind Map
