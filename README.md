@@ -1,12 +1,6 @@
-<style>
-img {
-    vertical-align: middle;
-}
-</style>
 # Bachelor Topics
 
 ## Task List
-
 
 - [x] Register topic until 02-18 ![Relative date](https://img.shields.io/date/1739915999?style=flat&label=Due&cacheSeconds=3600)
 - [ ] Submit a plan for the Thesis until 03-06 ![Relative date](https://img.shields.io/date/1741212000?style=flat&label=Due&cacheSeconds=3600)
