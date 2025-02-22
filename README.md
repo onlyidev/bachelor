@@ -3,10 +3,13 @@
 ## Task List
 
 <!-- TODO: fix by 2025-02-18 -->
+     Issue URL: https://github.com/onlyidev/bachelor/issues/8
 - [x] Register topic until 02-18 ![Relative date](https://img.shields.io/date/1739915999?style=flat&label=Due&cacheSeconds=3600)
 <!-- TODO: fix by 2025-03-06 -->
+     Issue URL: https://github.com/onlyidev/bachelor/issues/7
 - [ ] Submit a plan for the Thesis until 03-06 ![Relative date](https://img.shields.io/date/1741212000?style=flat&label=Due&cacheSeconds=3600)
 <!-- TODO: fix by 2025-04-28 -->
+     Issue URL: https://github.com/onlyidev/bachelor/issues/6
 - [ ] Submit practice report until 04-28 ![Relative date](https://img.shields.io/date/1745787600?label=Due&cacheSeconds=3600)
 
 
