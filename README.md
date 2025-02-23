@@ -35,6 +35,7 @@ mindmap
         Needs to be trained on the same dataset as the model we are trying to explain
         {{Has different modes}}
     ember)EMBER(
+    sleipnir)SLEIPNIR(
 ```
 
 ## Notes
