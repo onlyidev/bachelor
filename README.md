@@ -42,6 +42,7 @@ mindmap
 
 <!-- 
     TODO: Decide if EMBER is needed
+    Issue URL: https://github.com/onlyidev/bachelor/issues/12
  -->
 
 ### LIME
