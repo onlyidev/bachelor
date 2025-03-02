@@ -40,6 +40,10 @@ mindmap
 
 ## Notes
 
+<!-- 
+    TODO: Decide if EMBER is needed
+ -->
+
 ### LIME
 
 - Detector and LIME need to be trained on the same dataset together (EMBER/SLEIPNIR)
@@ -58,6 +62,8 @@ collect("Use LIME to collect a normal set of features 🔷")
 lime("Create component that uses LIME explanations to verify that classification is Benign 🔶")
 exp1["Experiment - measure normal classifier (no MCA) stats 🔶"]
 exp2["Experiment - measure adjusted classifier (with MCA) stats 🔶"]
+plots("Prepare experiment plots 🔶")
+visual("Visualize modified process 🔶")
 
 data --> train
 data --> mca --> classify --> validate
