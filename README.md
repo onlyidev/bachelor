@@ -42,5 +42,39 @@ mindmap
 
 ### LIME
 
-- Detector and LIME need to be trained on the same dataset together (EMBER)
+- Detector and LIME need to be trained on the same dataset together (EMBER/SLEIPNIR)
 - LIME needs different features than the detector (processed by MCA)
+
+## Plan
+
+```mermaid
+flowchart
+data("Acquire dataset - SLEIPNIR ✅")
+train("Train MalGAN 🔷")
+mca("Train MCA 🔷")
+classify("Train classifier on MCA data 🔷")
+validate("Validate classifier performance 🔶")
+collect("Use LIME to collect a normal set of features 🔷")
+lime("Create component that uses LIME explanations to verify that classification is Benign 🔶")
+exp1["Experiment - measure normal classifier (no MCA) stats 🔶"]
+exp2["Experiment - measure adjusted classifier (with MCA) stats 🔶"]
+
+data --> train
+data --> mca --> classify --> validate
+classify --> collect
+train --> exp1
+train --> exp2
+collect --> lime --> exp2
+
+subgraph Legend
+legend("`
+✅ -- DONE
+🔷 -- In progress
+🔶 -- Not Started
+`")
+end
+
+classDef left text-align:left;
+class legend left
+
+```
