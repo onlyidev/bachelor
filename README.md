@@ -58,11 +58,12 @@ mca("Train MCA 🔷")
 classify("Train classifier on MCA data 🔷")
 validate("Validate classifier performance 🔶")
 collect("Use LIME to collect a normal set of features 🔷")
-lime("Create component that uses LIME explanations to verify that classification is Benign 🔶")
+lime("Create component that uses LIME explanations to verify that classification is Benign 🔷")
 exp1["Experiment - measure normal classifier (no MCA) stats 🔶"]
 exp2["Experiment - measure adjusted classifier (with MCA) stats 🔶"]
 plots("Prepare experiment plots 🔶")
 visual("Visualize modified process 🔶")
+inertia("Calculate inertia for MCA 🔶")
 
 data --> train
 data --> mca --> classify --> validate

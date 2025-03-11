@@ -5,6 +5,9 @@ permissions:
   contents: write
   pull-requests: write
 
+concurrency:
+  group: ${{ github.head_ref || github.ref }}
+
 jobs:
   dependabot:
     runs-on: ubuntu-latest
