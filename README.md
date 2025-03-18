@@ -18,6 +18,12 @@
 -->
 - [ ] Submit practice report until 04-28 ![Relative date](https://img.shields.io/date/1745787600?label=Due&cacheSeconds=3600)
 
+<!-- 
+    TODO: Complete Thesis by 2025-05-07
+    milestone: Thesis Completed
+ -->
+- [ ] Complete Thesis by 05-07 ![Relative date](https://img.shields.io/date/1746592200?label=Due&cacheSeconds=3600)
+
 ## Mind Map
 
 ```mermaid
@@ -59,11 +65,12 @@ classify("Train classifier on MCA data 🔷")
 validate("Validate classifier performance 🔶")
 collect("Use LIME to collect a normal set of features 🔷")
 lime("Create component that uses LIME explanations to verify that classification is Benign 🔷")
-exp1["Experiment - measure normal classifier (no MCA) stats 🔶"]
-exp2["Experiment - measure adjusted classifier (with MCA) stats 🔶"]
-plots("Prepare experiment plots 🔶")
+exp1["Experiment - measure normal classifier (no MCA) stats 🔷"]
+exp2["Experiment - measure adjusted classifier (with MCA) stats 🔷"]
+exp3["Experiment - measure adjusted classifier (without MCA) stats 🔶"]
+plots("Prepare experiment plots 🔷")
 visual("Visualize modified process 🔶")
-inertia("Calculate inertia for MCA 🔶")
+inertia("Calculate inertia for MCA 🔷")
 
 data --> train
 data --> mca --> classify --> validate
@@ -71,6 +78,7 @@ classify --> collect
 train --> exp1
 train --> exp2
 collect --> lime --> exp2
+exp2 --> exp3
 
 subgraph Legend
 legend("`
