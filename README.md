@@ -26,6 +26,7 @@
 
 <!-- 
     TODO: Complete Thesis by 2025-05-07
+    Issue URL: https://github.com/onlyidev/bachelor/issues/21
     milestone: Thesis Completed
  -->
 - [ ] Complete Thesis by 05-07 ![Relative date](https://img.shields.io/date/1746592200?label=Due&cacheSeconds=3600)
