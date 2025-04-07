@@ -20,6 +20,7 @@
 
 <!-- 
     TODO: Adjust Thesis topic by 2025-04-30
+    Issue URL: https://github.com/onlyidev/bachelor/issues/29
     milestone: Thesis Completed
  -->
 - [ ] Adjust Thesis topic by 04-30 ![Relative date](https://img.shields.io/date/1746030600?label=Due&cacheSeconds=3600)
