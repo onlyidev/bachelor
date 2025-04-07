@@ -19,10 +19,19 @@
 - [ ] Submit practice report until 04-28 ![Relative date](https://img.shields.io/date/1745787600?label=Due&cacheSeconds=3600)
 
 <!-- 
+    TODO: Adjust Thesis topic by 2025-04-30
+    milestone: Thesis Completed
+ -->
+- [ ] Adjust Thesis topic by 04-30 ![Relative date](https://img.shields.io/date/1746030600?label=Due&cacheSeconds=3600)
+
+<!-- 
     TODO: Complete Thesis by 2025-05-07
     milestone: Thesis Completed
  -->
 - [ ] Complete Thesis by 05-07 ![Relative date](https://img.shields.io/date/1746592200?label=Due&cacheSeconds=3600)
+
+
+
 
 ## Mind Map
 
@@ -45,9 +54,6 @@ mindmap
 
 ## Notes
 
-<!-- 
-    TODO: Decide if EMBER is needed
- -->
 
 ### LIME
 
@@ -67,7 +73,7 @@ collect("Use LIME to collect a normal set of features 🔷")
 lime("Create component that uses LIME explanations to verify that classification is Benign 🔷")
 exp1["Experiment - measure normal classifier (no MCA) stats 🔷"]
 exp2["Experiment - measure adjusted classifier (with MCA) stats 🔷"]
-exp3["Experiment - measure adjusted classifier (without MCA) stats 🔶"]
+exp3["Experiment - measure adjusted classifier (without MCA) stats 🔷"]
 plots("Prepare experiment plots 🔷")
 visual("Visualize modified process 🔶")
 inertia("Calculate inertia for MCA 🔷")
