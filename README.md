@@ -12,11 +12,10 @@
  -->
 - [x] Submit a plan for the Thesis until 03-06 ![Relative date](https://img.shields.io/date/1741212000?style=flat&label=Due&cacheSeconds=3600)
 <!--
-    TODO: fix by 2025-04-28 
     Issue URL: https://github.com/onlyidev/bachelor/issues/6
     milestone: Professional Practice
 -->
-- [ ] Submit practice report until 04-28 ![Relative date](https://img.shields.io/date/1745787600?label=Due&cacheSeconds=3600)
+- [x] Submit practice report until 04-28 ![Relative date](https://img.shields.io/date/1745787600?label=Due&cacheSeconds=3600)
 
 <!-- 
     TODO: Adjust Thesis topic by 2025-04-30
