@@ -18,11 +18,10 @@
 - [x] Submit practice report until 04-28 ![Relative date](https://img.shields.io/date/1745787600?label=Due&cacheSeconds=3600)
 
 <!-- 
-    TODO: Adjust Thesis topic by 2025-04-30
     Issue URL: https://github.com/onlyidev/bachelor/issues/29
     milestone: Thesis Completed
  -->
-- [ ] Adjust Thesis topic by 04-30 ![Relative date](https://img.shields.io/date/1746030600?label=Due&cacheSeconds=3600)
+- [x] Adjust Thesis topic by 04-30 ![Relative date](https://img.shields.io/date/1746030600?label=Due&cacheSeconds=3600)
 
 <!-- 
     TODO: Complete Thesis by 2025-05-07
